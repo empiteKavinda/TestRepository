@@ -15,4 +15,7 @@
 	<p>
 	Add Sajeewa to MY Project
 	</P>
+<p>
+Hi Kavinda
+</P>
 </asp:Content>
